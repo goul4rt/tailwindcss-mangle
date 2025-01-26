@@ -1,5 +1,11 @@
 # tailwindcss-patch
 
+## 6.0.0
+
+### Major Changes
+
+- [`a3214e0`](https://github.com/sonofmagic/tailwindcss-mangle/commit/a3214e058cd1c6e691899abf4e90e62958efc268) Thanks [@sonofmagic](https://github.com/sonofmagic)! - chore: prepare for tailwindcss v4
+
 ## 5.0.2
 
 ### Patch Changes
